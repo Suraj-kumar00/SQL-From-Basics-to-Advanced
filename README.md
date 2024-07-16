@@ -1,1 +1,1 @@
-# SQL-From-Basics-to-Advanced
+![SQL-From-Basics-to-Advanced](./Assets/SQL-poster%20(1).png)
