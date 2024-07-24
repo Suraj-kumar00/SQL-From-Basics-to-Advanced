@@ -27,4 +27,11 @@
  
 We'll be using MySQL Workbench --> Practical (Hands-On)
 
+---
+## The Installation of MySQL and MySQL workbench in Ubuntu
+#### Here are the steps to install throuch terminal and Ubuntu Software
 
+```bash
+
+
+```
