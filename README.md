@@ -1,7 +1,7 @@
 ![SQL-From-Basics-to-Advanced](./Assets/SQL-poster%20(1).png)
 
 
-## These Topics will be coverd:
+## These Topics will be covered:
 
 [1. Introduction to SQL and Database Fundamentals]()
 
