@@ -35,3 +35,8 @@ We'll be using MySQL Workbench --> Practical (Hands-On)
 
 
 ```
+
+
+#### Here are the step to install MySQL and MySQL Workbench for window users
+
+[Install MySQL Workbench in windows](https://www.youtube.com/watch?v=KMagIwoe4aY)
